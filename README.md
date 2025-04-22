@@ -2,7 +2,8 @@
 
 👋 Merhaba! Ben Salih Korkmaz, bir yazılım geliştiricisiyim. Web geliştirme, veri tabanı yönetimi ve yazılım mühendisliği konularında çeşitli becerilere sahibim.
 
-## Beceriler
+## Profil Hakkında
+Şuan kendi fikirim olan projeler üzerine çalıştığım için private durumda.Aktivite yok gibi duruyor ama private olan projelerde commit bir aktivite oluşturmaz bilgilerinize.
 
 ### Diller ve Teknolojiler
 <p align="left">
