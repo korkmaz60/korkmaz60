@@ -23,7 +23,7 @@
 </p>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1453salih&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korkmaz60&layout=compact)
 
 
 ## En çok kullandıklarım
@@ -34,7 +34,7 @@
 
 ## Projeler
 
-[Ekim Rehberi](https://github.com/1453salih/Tarim-Proje)
+[Ekim Rehberi](https://github.com/korkmaz60/Tarim-Proje)
 
 
 ## İletişim
