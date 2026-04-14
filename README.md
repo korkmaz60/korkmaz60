@@ -1,6 +1,9 @@
 # Salih Korkmaz
 
 👋 Merhaba! Ben Salih Korkmaz, bir yazılım geliştiricisiyim. Web geliştirme, veri tabanı yönetimi ve yazılım mühendisliği konularında çeşitli becerilere sahibim.
+    Projeler:
+    - Aktif olarak AI,LLMOps,Langchain,RAG vb. AI konularıyla aktif olarak ilgilenmekte ve proje geliştirmekteyim.
+    - https://nottut.com/en/ @Founder
 
 ## Profil Hakkında
 Şuan kendi fikirim olan projeler üzerine çalıştığım için private durumda.Aktivite yok gibi duruyor ama private olan projelerde commit bir aktivite oluşturmaz bilgilerinize.
