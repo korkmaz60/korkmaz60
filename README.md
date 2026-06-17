@@ -7,7 +7,7 @@ Projeler:
 - https://nottut.com/en/ @Founder
 
 ## Profil Hakkında
-Şuan kendi fikirim olan projeler üzerine çalıştığım için private durumda.Aktivite yok gibi duruyor ama private olan projelerde commit bir aktivite oluşturmaz bilgilerinize.
+Şuan kendi fikrim olan projeler üzerine çalıştığım için private durumda.Aktivite yok gibi duruyor ama private olan projelerde commit bir aktivite oluşturmaz bilgilerinize.
 
 ### Diller ve Teknolojiler
 <p align="left">
